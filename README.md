@@ -11,4 +11,4 @@ A small dataset of student test scores and the amount of hours they studied is u
 There are several numerical optimization techniques amongst which the Gradient Descent method is examined to minimize the cost function of Linear Regression.
 
 ## Usage
-Run the jupyter notebook linear_regression.ipynb
+Run the jupyter notebook `linear_regression.ipynb`
