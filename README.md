@@ -12,3 +12,6 @@ There are several numerical optimization techniques amongst which the Gradient D
 
 ## Usage
 Run the jupyter notebook `linear_regression.ipynb`
+
+## Results
+![Results](pred.png)
