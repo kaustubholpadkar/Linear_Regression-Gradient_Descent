@@ -5,6 +5,6 @@
 This project demonstrates how the gradient descent algorithm may be used to solve a linear regression problem.
 <br/>
 <br/>
-I'm using a small dataset of student test scores and the amount of hours they studied. Intuitively, there must be a relationship right? The more you study, the better your test scores should be. We're going to use linear regression to prove this relationship.
+A small dataset of student test scores and the amount of hours they studied is utilized. Intuitively, there must be a relationship between the scores and the hours studied. The more one studies, the better one's test scores should be. The linear regression is used to uncover this relationship.
 
 ## Results
